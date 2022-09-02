@@ -1,1 +1,1 @@
-pwd : this commands prints the current the absolute path to the current working directly.
+Each file contains scripts for basic shell commands
