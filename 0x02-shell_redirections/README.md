@@ -1,1 +1,1 @@
-This file contains shell redirection scripts
+This file contains shell redirection commands
